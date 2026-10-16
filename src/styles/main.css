@@ -1,0 +1,10 @@
+:root { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #08175c; font-synthesis: none; text-rendering: optimizeLegibility; }
+* { box-sizing: border-box; }
+html { background: #f3f8fd; }
+body { margin: 0; background: #f3f8fd; }
+a { color: inherit; }
+.surface-card { border: 1px solid #e3edf8 !important; box-shadow: 0 7px 22px rgba(39, 86, 145, .07) !important; }
+.field-label { display: block; margin-bottom: 8px; color: #172b72; font-size: 12px; font-weight: 700; }
+.required { color: #b42318; }
+.empty-state { padding: 52px 24px; color: #6475a4; text-align: center; }
+.error-banner { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; padding: 14px 16px; color: #8e2d26; border: 1px solid #f0cbc7; border-radius: 12px; background: #fff2f0; font-size: 14px; }
